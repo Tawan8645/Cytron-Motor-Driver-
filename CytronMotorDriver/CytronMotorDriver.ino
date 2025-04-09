@@ -1,3 +1,6 @@
+//-- Company: Department of Robotics Engineering
+//-- Engineer: jakkapat khawsanga
+
 // Motor A
 #define M1A 27
 #define M1B 26
